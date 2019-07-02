@@ -19,14 +19,17 @@
   </nav>
   <hr />
   <main>
-    <figure> 
-      <img src="img/homeautomation.jpg" alt="Home Automation Picture"/>
-      <figcaption>Home Automation</figcaption>
+    <div>
+      <figure> 
+        <img src="img/homeautomation.jpg" alt="Home Automation Picture"/>
+        <figcaption>Home Automation</figcaption>
+      </figure>
       <p id=quote>
         Information and pictures courtesy of 
         <a id="ref_link" href="https://nationalhomes.com/be-smart-about-smart-home-automation-by-deena-pantalone/">National Homes</a>
-  </p>
-    </figure>
+      </p>
+    </div>  
+
     <div id="main_text">
       Smart home automation allows homeowners to secure their home and optimize different functions throughout them.
       Whether you are looking have a piece of mind or a look in your refrigerator there is a home automation solution that can make your life easier. 
@@ -39,6 +42,7 @@
         <li>Comfort</li>
         <li>Peace of Mind</li>     
       </ul>
+          
     </div>   
   </main>
  
