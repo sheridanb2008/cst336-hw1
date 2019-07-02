@@ -76,7 +76,7 @@ img {
   border-width:8px;
   border-color:lightsalmon;
 }
-#ref_link{
+#ref_link,#ref_link2 {
   text-decoration:none;
 }
 #foot_container {
