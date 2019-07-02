@@ -12,39 +12,41 @@
   </header>
   <hr />
   <nav>
-    <a href="index.php">Overview</a>
+    <a id="current_page" href="index.php">Overview</a>
     <a href="benefits.html">Benefits</a>
-    <a id="current_page" href="protocols.html">Protocols</a>
+    <a href="protocols.html">Protocols</a>
     <a href="providers.html">Proividers</a>
   </nav>
   <hr />
   <main>
     <figure> 
-      <img src="img/protocols.png" alt="Home Automation Protocols Picture"/>
-      <figcaption>Home Automation Protocols</figcaption>
+      <img src="img/homeautomation.jpg" alt="Home Automation Picture"/>
+      <figcaption>Home Automation</figcaption>
       <p id=quote>
         Information and pictures courtesy of 
-        <a id="ref_link" href="https://www.simform.com/iot-home-automation-protocols/">Simform</a>
+        <a id="ref_link" href="https://nationalhomes.com/be-smart-about-smart-home-automation-by-deena-pantalone/">National Homes</a>
   </p>
     </figure>
     <div id="main_text">
-      When looking for home automation devices for your home it is important that all of them are able to work together.  This is where protocols come in. 
-      Before you buy any products or you have existing products take a look at what protocol the device is broadcasting on. 
-      This help to narrow your search and be able to find other compatible hardware.
+      Smart home automation allows homeowners to secure their home and optimize different functions throughout them.
+      Whether you are looking have a piece of mind or a look in your refrigerator there is a home automation solution that can make your life easier. 
       <ul id=description>
-        <strong><mark>The top protocols currently are:</mark></strong>
-        <li>Zigbee</li>
-        <li>6LoWPAN</li>
-        <li>Bluetooth</li>
-        <li>Thread</li>
+        <strong><mark>Areas Home Automation can work for you:</mark></strong>
+        <li>Energy Savings</li>
+        <li>Home Security</li>
+        <li>Convenience</li>
+        <li>Control</li>
+        <li>Comfort</li>
+        <li>Peace of Mind</li>     
       </ul>
     </div>   
   </main>
+ 
 
   
   <!-- The footer with image and disclaimer-->
   <footer>
-    <hr>
+    <hr />
     <div id="foot_container">   
       <img id="footer_img" src="img/CSUMB_Logo1.png" alt="CSUMB Logo"/>
       <div id = "copyright">

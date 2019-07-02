@@ -12,7 +12,7 @@
   </header>
   <hr />
   <nav>
-    <a id="current_page" href="index.html">Overview</a>
+    <a id="current_page" href="index.php">Overview</a>
     <a href="benefits.html">Benefits</a>
     <a href="protocols.html">Protocols</a>
     <a href="providers.html">Proividers</a>
