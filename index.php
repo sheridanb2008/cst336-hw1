@@ -33,8 +33,10 @@
     <div id="main_text">
       Smart home automation allows homeowners to secure their home and optimize different functions throughout them.
       Whether you are looking have a piece of mind or a look in your refrigerator there is a home automation solution that can make your life easier. 
+      <br />
+      <p id=list_title> <strong><mark>Areas Home Automation can work for you:</mark></strong></p>
       <ul id=description>
-        <strong><mark>Areas Home Automation can work for you:</mark></strong>
+        
         <li>Energy Savings</li>
         <li>Home Security</li>
         <li>Convenience</li>

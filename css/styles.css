@@ -51,7 +51,7 @@ main{
   text-align: left;
 }
 li {
-  padding-top:15px;
+  padding-bottom:15px;
 }
 .bold_text {
   font-weight:bold;
@@ -66,6 +66,9 @@ figcaption {
 #quoteEH {
   text-align:left;
   font-size:0.8em;
+}
+#list_title{
+  text-align:left;
 }
 img {
   border-style:outset;
